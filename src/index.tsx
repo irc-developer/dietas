@@ -2,15 +2,14 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css'; 
 import reportWebVitals from './reportWebVitals';
-import { DietText, DietHeader } from './components';
+import { Diet } from './components/diet';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
 root.render(
   <React.StrictMode>
-    <DietHeader header = "prueba"/>
-    <DietText />
+    <Diet />
   </React.StrictMode>
 );
 

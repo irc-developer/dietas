@@ -1,0 +1,140 @@
+[
+    {
+        "titulo": "7-dias-2",
+        "comidas": [
+            {
+                "dia": "lunes",
+                "desayuno": "Café o té. Tres tostadas con mermelada light o cereales.",
+                "almuerzo": "",
+                "comida": "Bocadillo con mozarela y verdura. Una fruta del tiempo.",
+                "merienda": "",
+                "cena": "Filete de pechuga de pollo. Verduras a la plancha. Un pepito."
+            },
+            {
+                "dia": "lunes",
+                "desayuno": "Café o té. Tres tostadas con mermelada light o cereales.",
+                "almuerzo": "",
+                "comida": "Bocadillo con mozarela y verdura. Una fruta del tiempo.",
+                "merienda": "",
+                "cena": "Filete de pechuga de pollo. Verduras a la plancha. Un pepito."
+            },
+            {
+                "dia": "martes",
+                "desayuno": "Café o té. Tres tostadas con mermelada light o cereales.",
+                "almuerzo": "",
+                "comida": "Ensalada de maíz, lechuga, tomate, palmito y atún",
+                "merienda": "",
+                "cena": "Espaguettis con tomate light. Calabacín plancha. Merluza con aceite y limón"
+            },
+            {
+                "dia": "miercoles",
+                "desayuno": "Café o té. Tres tostadas con mermelada light o cereales.",
+                "almuerzo": "",
+                "comida": "Bocadillo de jamón serrano. Ensalada de lechuga, tomate, cebolla y pepino. Un puñado de arroz hervido",
+                "merienda": "",
+                "cena": "Tallarines con tomate light. Filete ternera. Pepito"
+            },
+            {
+                "dia": "jueves",
+                "desayuno": "Café o té. Tres tostadas con mermelada light o cereales.",
+                "almuerzo": "",
+                "comida": "Bocata de jamón y queso. Ensalada de lechuga, tomate, cebolla y pepino",
+                "merienda": "",
+                "cena": "Espaghettis con almejas. Huevo duro con tomatitos. Dos tostadas."
+            },
+            {
+                "dia": "viernes",
+                "desayuno": "Café o té. Tres tostadas con mermelada light o cereales.",
+                "almuerzo": "",
+                "comida": "Un bocadillo de ternera. Verdura a la parrilla",
+                "merienda": "",
+                "cena": "Arroz con calabacín. Coliflor hervida. Una loncha de mozarella"
+            },
+            {
+                "dia": "sábado",
+                "desayuno": "Café o té. Tres tostadas con mermelada light o cereales.",
+                "almuerzo": "",
+                "comida": "Una manzana. Bocata de lomo con tomate.",
+                "merienda": "",
+                "cena": "Tallarines con mejillones. Ensalda de lechuga, cebolla, tomates y pepino"
+            },
+            {
+                "dia": "domingo",
+                "desayuno": "Café o té. Tres tostadas con mermelada light o cereales.",
+                "almuerzo": "",
+                "comida": "Una manzana. Solomillo de ternera a la pimienta. Ensalada de cogollos de tudela. Sorbete de limón.",
+                "merienda": "",
+                "cena": "Pizza 4 estaciones"
+            }
+        ]
+    },
+    {
+        "titulo": "7-dias-3",
+        "comidas": [
+            {
+                "dia": "lunes",
+                "desayuno": "Café o té. Tres tostadas con mermelada light o cereales.",
+                "almuerzo": "",
+                "comida": "Bocadillo con mozarela y verdura. Una fruta del tiempo.",
+                "merienda": "",
+                "cena": "Filete de pechuga de pollo. Verduras a la plancha. Un pepito."
+            },
+            {
+                "dia": "lunes",
+                "desayuno": "Café o té. Tres tostadas con mermelada light o cereales.",
+                "almuerzo": "",
+                "comida": "Bocadillo con mozarela y verdura. Una fruta del tiempo.",
+                "merienda": "",
+                "cena": "Filete de pechuga de pollo. Verduras a la plancha. Un pepito."
+            },
+            {
+                "dia": "martes",
+                "desayuno": "Café o té. Tres tostadas con mermelada light o cereales.",
+                "almuerzo": "",
+                "comida": "Ensalada de maíz, lechuga, tomate, palmito y atún",
+                "merienda": "",
+                "cena": "Espaguettis con tomate light. Calabacín plancha. Merluza con aceite y limón"
+            },
+            {
+                "dia": "miercoles",
+                "desayuno": "Café o té. Tres tostadas con mermelada light o cereales.",
+                "almuerzo": "",
+                "comida": "Bocadillo de jamón serrano. Ensalada de lechuga, tomate, cebolla y pepino. Un puñado de arroz hervido",
+                "merienda": "",
+                "cena": "Tallarines con tomate light. Filete ternera. Pepito"
+            },
+            {
+                "dia": "jueves",
+                "desayuno": "Café o té. Tres tostadas con mermelada light o cereales.",
+                "almuerzo": "",
+                "comida": "Bocata de jamón y queso. Ensalada de lechuga, tomate, cebolla y pepino",
+                "merienda": "",
+                "cena": "Espaghettis con almejas. Huevo duro con tomatitos. Dos tostadas."
+            },
+            {
+                "dia": "viernes",
+                "desayuno": "Café o té. Tres tostadas con mermelada light o cereales.",
+                "almuerzo": "",
+                "comida": "Un bocadillo de ternera. Verdura a la parrilla",
+                "merienda": "",
+                "cena": "Arroz con calabacín. Coliflor hervida. Una loncha de mozarella"
+            },
+            {
+                "dia": "sábado",
+                "desayuno": "Café o té. Tres tostadas con mermelada light o cereales.",
+                "almuerzo": "",
+                "comida": "Una manzana. Bocata de lomo con tomate.",
+                "merienda": "",
+                "cena": "Tallarines con mejillones. Ensalda de lechuga, cebolla, tomates y pepino"
+            },
+            {
+                "dia": "domingo",
+                "desayuno": "Café o té. Tres tostadas con mermelada light o cereales.",
+                "almuerzo": "",
+                "comida": "Una manzana. Solomillo de ternera a la pimienta. Ensalada de cogollos de tudela. Sorbete de limón.",
+                "merienda": "",
+                "cena": "Pizza 4 estaciones"
+            }
+        ]
+    }
+]

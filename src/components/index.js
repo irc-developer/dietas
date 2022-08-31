@@ -1,2 +1,2 @@
-export { DietText } from "./diet";
-export { DietHeader } from "./diet-header";
+export { DietMeal } from "./diet-meal";
+export { DietHeader } from "./diet-header"; 
